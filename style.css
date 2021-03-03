@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 :root{
-	--main-background: #0b0c0f;
-	--main-fonts-color: #fff;
-	--main-decor-color:#00a9e2;
-    --main-header-background:#21252e;
-	--main-font-family: 'Poppins', sans-serif;
+	--main-background: #202020
+	--main-fonts-color: #FFFFFF
+	--main-decor-color:#3F3F3F;
+    --main-header-background:#707070;
+	--main-font-family: 'Open Sans', sans-serif;
 }
 
 *{
@@ -74,7 +74,7 @@ a.nav-link{
 }
 
 .nav-link:hover {
-	color: #000000;
+	color: #FFD6C;
     background: var(--main-decor-color);
 }
 
@@ -221,7 +221,7 @@ a.nav-link{
 }
 
 .card .work-content:hover{
-    color:#202020;
+    color:#FFD6C;
 }
 
 .card:hover{
