@@ -194,15 +194,15 @@ a.nav-link{
 .card{
 	display: flex;
 	flex-direction: column;
-	margin: 20px;
-	width: 240px;
-	height:135px;
+	margin: 10px;
+	width: 250px;
+	height:200px;
 	border-radius:12px;
     background:var(--main-decor-color);
 }
 
 .card img{
-	width: 100%;
+	width: 75%;
 	height:100%;
 	border-radius:10px 10px 0px 0px;
 }
