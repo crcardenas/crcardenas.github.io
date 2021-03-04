@@ -84,7 +84,7 @@ a.nav-link{
 
 #home{
 	margin: auto;
-	height: 110vh;
+	height: 120vh;
 	color: var(--main-fonts-color);
 	display: flex;
 	flex-direction: column;
@@ -114,7 +114,7 @@ a.nav-link{
 
 .intro  p{
     margin: 5px;
-	font-size:1rem;
+	font-size:1.5rem;
 	font-family: var(--main-font-family);
 	text-align:center;
 }
@@ -144,7 +144,7 @@ a.nav-link{
 
 .social-media a {
     margin: 10px;
-    font-size: 1rem;
+    font-size: 2rem;
     text-align:center;
     display: inline-block;
 	color: var(--main-fonts-color);
