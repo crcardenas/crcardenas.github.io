@@ -5,4 +5,4 @@ classes: single
 permalink: /blog/
 author_profile: true
 ---
-# stuff will go here
+# Latest blog posts are found here

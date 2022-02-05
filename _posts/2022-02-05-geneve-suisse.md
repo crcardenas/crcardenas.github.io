@@ -1,7 +1,6 @@
 ---
 layout: single
-title:  "We'll we are here now"
-date:   2022-02-05 18:00:00 -0500
+title:  "Well we are here now"
 categories: New Home
 author_profile: true
 ---

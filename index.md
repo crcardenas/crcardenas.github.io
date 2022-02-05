@@ -13,15 +13,18 @@ feature_row:
     alt: "Cardenas et al. 2021 - PeerJ"
     title: "Research"
     url: "/research/"
+    excerpt: "Find the latest updates on the research I have been doing here. Publications, presentations, and projects."
 
-  - image_path: /images/logo.png
+  - image_path: /images/logo2.png
     alt: "placeholder image 2"
     title: "about me"
     url: "/about/"
+    excerpt: "Learn more about me."
 
-  - image_path: /images/logo.png
+  - image_path: /images/logo2.png
     title: "Blog"
     url: "/blog/"
+    excerpt: "Thoughts, life, and photography can be found here."
 
 ---
 # This webiste is under construction.
