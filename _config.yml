@@ -2,8 +2,9 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
-locale                   : "indexen-US"
+locale                   : "en-EU"
 title                    : "Cody Raul Cardenas"
 title_separator          : "-"
 subtitle                 : "Entomologist, taxonomist, evolutionary biologist"
@@ -90,33 +91,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cody Raul Cardenas"
-  #avatar           : "/images/headshot.png"
-  bio              : "I studied ants, now I study beetles! <br> I'll be back Formicidae <3"
-  location         : "Geneva, Switzerland"
-  email            : "NEPENTHESBAPHOMET@OUTLOOK.COM"
-  links:
-    - label         : "Email"
-      icon          : "fas fa-fw fa-envelope-square"
-      # url         : "mailto:your.name@email.com"
-    - label         : "Website"
-      icon          : "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label         : "Twitter"
-      icon          : "fab fa-fw fa-twitter-square"
-      # url         : "https://twitter.com/"
-    - label         : "Facebook"
-      icon          : "fab fa-fw fa-facebook-square"
-      # url         : "https://facebook.com/"
-    - label         : "GitHub"
-      icon          : "fab fa-fw fa-github"
-      # url         : "https://github.com/"
-    - label         : "Instagram"
-      icon          : "fab fa-fw fa-instagram"
-      # url         : "https://instagram.com/"
-
-# Site Footer
-footer:
+  name     : "Cody Raul Cardenas"
+  avatar   : "/images/headshot.png"
+  bio      : "I studied ants, now I study beetles! <br> I'll be back Formicidae <3"
   links:
     - label: "crcardenas.github.io"
       icon: "fas fa-fw fa-link"
@@ -133,6 +110,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/nepenthesbaphomet"
+
 
 # Reading Files
 include:
