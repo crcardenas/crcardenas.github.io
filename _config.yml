@@ -44,6 +44,10 @@ social:
     - "https://instagram.com/nepenthesbaphomet"
 
 
+#Disable feed icons
+atom_feed:
+    hide: true
+
 # Site Author
 author:
   name     : "Cody Raul Cardenas"
