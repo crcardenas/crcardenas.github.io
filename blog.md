@@ -2,7 +2,7 @@
 layout: home
 title: Blog
 classes: single
-permalink: /blog
+permalink: /blog/
 author_profile: true
 ---
 

@@ -2,7 +2,7 @@
 layout: single
 title: Research
 classes: single
-permalink: /research
+permalink: /research/
 author_profile: true
 ---
 {% comment %}
