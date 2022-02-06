@@ -27,10 +27,10 @@ feature_row:
     excerpt: "Thoughts, life, and photography can be found here."
 
 ---
-# This webiste is under construction.
+<div align="center">
+<h1> I am an entomologist and evolutionary biologist! </h1>
+</div>
 
-I am an entomologist!! I will be starting work on my doctorate with <a href="https://toussaintlab.com/">Dr. Emmanuel Toussaint</a> in Febuary 2022. I previously worked with the <a href="https://megalomyrmex.osu.edu/">Dr. Rachelle M.M. Adams</a> studying the population genetics of a new species of fungus-growing ant.
-
-Expect to find anything about me such as research updates, personal code/programing notes, publications, film-photography, and general life updates.
+Expect to find anything about me such as my current research, projects, notes, publications, film-photography, and general life updates.
 
 {% include feature_row %}

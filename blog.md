@@ -2,7 +2,17 @@
 layout: home
 title: Blog
 classes: single
-permalink: /blog/
+permalink: /blog
 author_profile: true
 ---
-# Latest blog posts are found here
+
+# Latest Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
