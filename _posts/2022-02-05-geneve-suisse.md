@@ -4,6 +4,7 @@ title:  "Well we are here now"
 date:   2022-02-05 18:00:00 +01:00
 categories: New Home
 author_profile: true
+show_date: true
 ---
 ## Bonjour Genève, Suisse!
 

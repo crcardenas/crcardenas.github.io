@@ -4,6 +4,7 @@ title:  "Happy New Year"
 date:   2022-01-01 00:10:36 -0500
 categories: New Website
 author_profile: true
+show_date: true
 ---
 ## Hello world!
 

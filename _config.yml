@@ -21,7 +21,9 @@ masthead_title           : "" # overrides the website title displayed in the mas
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : #200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  discus:
+    shortname: "nepenthesbaphomet"
 
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
@@ -206,6 +208,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true

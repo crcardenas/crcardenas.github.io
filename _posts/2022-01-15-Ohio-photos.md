@@ -4,6 +4,7 @@ title:  "Ohio-Photos"
 date:   2022-02-06 1:30:30 +01:00
 categories: Photography
 author_profile: true
+show_date: true
 ---
 
 This is just a small set of film photos from this past summer in Ohio that I took, most recently on my Mamiya 645. I left this camera back in Ohio for now, I'll bring it with me when I bring T home.
